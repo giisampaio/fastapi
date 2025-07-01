@@ -1,5 +1,3 @@
-# main.py
-
 from fastapi import FastAPI, UploadFile, File
 from gif_generator import gerar_gif
 

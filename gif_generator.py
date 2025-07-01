@@ -1,5 +1,3 @@
-# gif_generator.py
-
 from PIL import Image, ImageChops, ImageDraw, ImageFont
 import io, base64
 
